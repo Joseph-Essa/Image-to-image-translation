@@ -20,7 +20,7 @@ generate fake images:
 ---
 -Sample Of Real Images :-
 ---
-![](https://github.com/Joseph-Essa/Bounded-Buffer-Project/blob/main/Gifs/Animation.gif)
+![](screenshots/Real.png)
 
 ---
 -Sample Of Fake Images :-
