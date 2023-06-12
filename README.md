@@ -16,8 +16,6 @@ generate fake images:
 - generate fake images with accuracy (90%-95%)
 
 ---
-
----
 -Sample Of Real Images :-
 ---
 ![](screenshots/Real.png)
@@ -35,6 +33,7 @@ generate fake images:
 ---
 -SSIM :-
 ---
+![](screenshots/ssim(r).png)
 ![](screenshots/ssim(f).png)
 
 ---
