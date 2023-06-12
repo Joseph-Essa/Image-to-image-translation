@@ -55,6 +55,7 @@ About Dataset :
 
 ### Notes
 ----
-- Note : tuning :  tuning__file
+- Note : Tuning file for model : https://github.com/Joseph-Essa/Image-to-image-translation-GAN/tree/6106d29625cfe2e61e387a8277e5ed11a12b1429/tuning__file
 - Note : Used Dataset in this project has a bad quality because it a PET scanners you can use MRI scanners for better quality and results 
+- Note : Check Code With outputs ▶️
 ----
