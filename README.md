@@ -25,19 +25,22 @@ generate fake images:
 ---
 -Sample Of Fake Images :-
 ---
-![](https://github.com/Joseph-Essa/Bounded-Buffer-Project/blob/main/Gifs/Animation1.gif)
+![](screenshots/Fake.png)
+
+---
+-Loss For Generator and Discriminator :-
+---
+![](screenshots/Loss.png)
 
 ---
 -SSIM :-
 ---
-![](https://github.com/Joseph-Essa/Bounded-Buffer-Project/blob/main/Gifs/Animation1.gif)
+![](screenshots/SSIM (R).png)
+![](screenshots/SSIM (F).png)
 
 
 ---
 ### Tools
 ----
 - python
-----
-
-
 ----
