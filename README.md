@@ -35,9 +35,6 @@ generate fake images:
 ---
 -SSIM :-
 ---
-![](screenshots/SSIM (R).png)
-
----
 ![](screenshots/SSIM (F).png)
 
 ---
