@@ -1,5 +1,5 @@
 # Image-to-image-translation
-Image-to-image translation For alzheimer's disease PET scanner using GAN implementation 
+Image-to-image translation For alzheimer's disease PTE scanner using GAN implementation 
 ----
 ### Table of Contents
 You're sections headers will be used to reference location of destination.
